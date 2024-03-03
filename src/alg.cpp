@@ -1,6 +1,5 @@
 // Copyright 2022 NNTU-CS
 #include <vector>
-#include <cmath>
 
 bool checkPrime(uint64_t value) {
     if (value <= 1) return false;
